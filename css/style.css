@@ -1,0 +1,16 @@
+/* nav */
+.navbar-brand{
+    font-family: 'Pacifico', 'Montserrat', Courier, monospace;
+    font-size: 40px; 
+    color: #ff324e;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* @media (min-width: 1400px) {
+.row-cols-xxl-8 > * {
+    flex: 0 0 auto;
+    width: 12.5%;
+}
+ */
